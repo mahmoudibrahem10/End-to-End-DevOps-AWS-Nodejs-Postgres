@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
         - name: nodejs-app
-          image: mahmoudibrahem125/node-app:3
+          image: mahmoudibrahem125/node-app:4
           ports:
             - containerPort: 8000
           env:
